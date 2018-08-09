@@ -1,6 +1,6 @@
 # Arabic-Articles-Author-Gender-Identification
 
-This daset is assocaited with the following papers (please, cite them if you use it):
+This dataset is assocaited with the following papers (please, cite them if you use it):
 
 - Kholoud Alsmearat, Mahmoud Al-Ayyoub, Riyad Al-Shalabi and Ghassan Kanaan. Author Gender Identification from Arabic Text. Journal of Information Security and Applications (JISA) 35: 85-95, August 2017.
 https://doi.org/10.1016/j.jisa.2017.06.003
